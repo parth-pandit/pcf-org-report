@@ -1,0 +1,1 @@
+This script generates a report of all the deployed applications on a given PCF Org.
